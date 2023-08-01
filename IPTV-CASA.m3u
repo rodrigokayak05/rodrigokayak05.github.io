@@ -18,9 +18,6 @@ https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar",El Trece HD(1080p)
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
 #EXTINF:-1 tvg-id="Encuentro.ar",Encuentro (1080p)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
