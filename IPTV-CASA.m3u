@@ -1118,6 +1118,8 @@ https://v3.playerlatino.live/stream/m3u8/679
 #EXTINF:-1 tvg-id="KIDS.ar",🎭🧩🎲🎮KIDS🎭🧩🎲🎮
 https://tvd.uncu.edu.ar/memfs/2d4ab656
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1920px-Boomerang_2014_logo.svg.png" group-title="Infantiles",Boomerang
+http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RetroMagico.ar",RetroMágico (720p)
