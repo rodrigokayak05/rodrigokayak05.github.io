@@ -163,6 +163,9 @@ https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-id="Vorterix.ar",Vorterix (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="03 | TELEFE OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",03 | TELEFE OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3536
+
 
 #EXTINF:-1 tvg-id="DEPORTES.ar",🏀🏀⚽⚽⚽🥇🏆🏆🏆DEPORTES🏀🏀⚽⚽⚽🥇🏆🏆🏆
 https://tvd.uncu.edu.ar/memfs/2d4ab656
@@ -548,6 +551,24 @@ http://138.59.177.34:8000/play/a02s/index.m3u8
 http://138.59.177.34:8000/play/a042/index.m3u8
 #EXTINF:-1,tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura", Historial 2 HD
 http://45.189.117.202:48000/play/a02k/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="37 | HISTORY CHANNEL | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",37 | HISTORY CHANNEL | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152928
+#EXTINF:-1 tvg-id="" tvg-name="38 | HISTORY CHANNEL SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",38 | HISTORY CHANNEL SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152929
+#EXTINF:-1 tvg-id="" tvg-name="39 | HISTORY CHANNEL | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",39 | HISTORY CHANNEL | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152930
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="40 | HISTORY CHANNEL | FHD*" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",40 | HISTORY CHANNEL | FHD*
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152931
+#EXTINF:-1 tvg-id="" tvg-name="41 | HISTORY 2 SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",41 | HISTORY 2 SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152932
+#EXTINF:-1 tvg-id="" tvg-name="42 | HISTORY 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",42 | HISTORY 2 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152933
+#EXTINF:-1 tvg-id="" tvg-name="43 | HISTORY 2 FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",43 | HISTORY 2 FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152934
+#EXTINF:-1 tvg-id="" tvg-name="44 | HISTORY 2 FHD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",44 | HISTORY 2 FHD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152935
 
 
 
