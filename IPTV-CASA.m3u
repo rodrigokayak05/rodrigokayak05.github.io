@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF: -1,TUListam3uAgosto
+https://pastebin.com/raw/XSikVq5B
+
+
+
+
+
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Canal9Televida.ar",Canal 9 Televida (720p)
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
