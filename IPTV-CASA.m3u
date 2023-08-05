@@ -540,6 +540,13 @@ https://v3.playerlatino.live/stream/m3u8/67
 https://v3.playerlatino.live/stream/m3u8/61
 
 
+#EXTINF:-1,tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",Historial de canal
+http://138.59.177.34:8000/play/a056/index.m3u8
+#EXTINF:-1,tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",Historial HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+#EXTINF:-1,tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",2H2
+http://138.59.177.34:8000/play/a042/index.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel
