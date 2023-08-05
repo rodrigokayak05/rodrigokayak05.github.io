@@ -546,6 +546,8 @@ http://138.59.177.34:8000/play/a056/index.m3u8
 http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-1,tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",2H2
 http://138.59.177.34:8000/play/a042/index.m3u8
+#EXTINF:-1,tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura", Historial 2 HD
+http://45.189.117.202:48000/play/a02k/index.m3u8
 
 
 
