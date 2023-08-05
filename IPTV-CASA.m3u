@@ -4,7 +4,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal9Televida.ar",Canal 9 Televida (720p)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_9_Televida_%28Logo_2015%29.webp" group-title="Argentina",Canal 9 Televida (720p)
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar",TV Pública (TVP) (1080p) [Not 24/7]
@@ -16,10 +16,10 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar",La Nación+ (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-#EXTINF:-1 tvg-id="ElSiete.ar",El Siete Mendoza (720p) [Not 24/7]
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp" group-title="Argentina",El Siete Mendoza (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar",El Trece (1080p)
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Argentina" tvg-id="ElTrece.ar",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",Telefe
