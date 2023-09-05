@@ -29,11 +29,10 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3194
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/771
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eb9362ea0d5367005473c800f29a566d.png" group-title="LATINOS",ARG: Telefe
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3199
+
 
 #EXTINF:-1 group-title="Bics Extra", TELEFE AR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1009799891&_cdn_timestamp=1690977753&_cdn_token=55af745fda8b626bd020298fffb2151162fc31ae
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3199
 
 #EXTINF:-1 tvg-id="Encuentro.ar",Encuentro (1080p)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
@@ -159,8 +158,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
 https://www.youtube.com/c/americaenvivo/live
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
+#EXTINF:-1 tvg-name="el13Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="el13.ar" group-title="Argentina",El13 Ⓨ
+hhttp://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3194
 
 
 #EXTINF:-1 tvg-id="Vorterix.ar",Vorterix (1080p) [Not 24/7]
