@@ -2103,7 +2103,7 @@ https://ythlsgo.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 #EXTINF:-1 tvg-id="ElPalomar.ar",El Palomar (720p)
 https://stream.trixserver.com:3249/live/uv038live.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar",El Siete Mendoza (720p) [Not 24/7]
-https://ythlsgo.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
+https://www.youtube.com/watch?v=Vh8xmLBJtR8
 #EXTINF:-1 tvg-id="ElTrece.ar",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElSelloTVMadariaga.ar",ElSelloTV Madariaga (720p)
@@ -2365,3 +2365,73 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar",Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
  
+
+
+
+
+
+
+
+TELEFE HD
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+EL TRECE HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+CANAL 9 HD
+rtmp://sl100tb.cxnlive.com/live/canal9.stream
+TV PUBLICA HD
+rtmp://sl100tb.cxnlive.com/live/tvpublica.stream
+TyC Sports HD
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
+TN HD
+rtsp://stream.tn.com.ar/live/tnhd1
+C5N
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+Canal 26 HD
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
+ESPN +
+http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
+Magazine TV
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+History
+http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
+Boomerang
+http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
+Discovery kids
+http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8
+Q Musica
+mms://streamqm.uigc.net/qmusica
+Deportv HD
+rtmp://sl100tb.cxnlive.com/live/deportv.stream
+America TV
+rtmp://wdc.cxnlive.com/live/americasd.stream
+NATGEO HD
+http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
+NATGEO WILD HD
+http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800
+FX HD
+http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
+STAR WORLD HD
+http://ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
+NAT GEO MUSIC HD
+http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800
+BABY TV HD
+http://ilg.club/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7&bitrate=800
+SYFY HD
+http://ilg.club/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&bitrate=800
+COMEDY CENTRAL HD
+http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
+FOX SPORTS
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+ESPN
+rtmp://wdc.cxnlive.com/live/espn.stream
+CRONICA TV
+rtmp://wdc.cxnlive.com/live/cronica.stream
+TELESUR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+
+
+
